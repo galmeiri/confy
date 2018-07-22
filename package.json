@@ -1,5 +1,5 @@
 {
-  "name": "confy",
+  "name": "sconfigger",
   "version": "1.0.0",
   "description": "A smart JSON config parser",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galmeiri/confy.git"
+    "url": "git+https://github.com/galmeiri/sconfigger.git"
   },
   "author": "Gal Meiri",
   "license": "ISC"
