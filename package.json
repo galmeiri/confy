@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node test app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galmeiri/confy.git"
+  },
   "author": "Gal Meiri",
   "license": "ISC"
 }
